@@ -1,0 +1,1 @@
+This repository contains a COBOL program with a bug related to invalid customer ID handling and an empty customer file. The bug occurs when the program displays an 'Invalid Customer ID' message even when a valid customer ID is entered.  The solution improves the ID validation and accounts for the case where the customer file is empty.
